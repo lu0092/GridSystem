@@ -1,0 +1,66 @@
+a {
+	text-decoration: none;
+	
+}
+ul > li {
+	list-style: none;
+	display: inline-block;}
+.logo {width: 10%;}
+.header {background: #383434;}
+.color-cabeza {color: #FFF;}
+.encabezado{position: relative;left: 230px;top: -50px;margin-left: 20px;}
+/*contenido*/
+.more {	background-color: #e5ecf0;border-bottom: 2px ridge #8a8484; margin-bottom: 40px;}
+.mas {color: #308db7;position: absolute;left: 350px;top: 130px;font-size: 15px;}
+.list-epi {width: 22%;margin:20px 33px 20px 0 ;text-align: center;}
+.list-epi:last-child {margin-right: 0;}
+.episodies {width: 100%;border: 3px ridge #FFF;}
+.epi { color:#308db7;}
+
+.izquierda {
+	display: block;
+	margin-bottom: 10px;
+}
+.subtitulo {
+	border-bottom: 4px solid #a5a1a1;
+	padding-bottom: 2px;
+	margin-bottom:30px;
+	margin-top: 50px;
+
+}
+.color-izq { color: #308db7;}
+.iconos {
+	width: 7%;
+	margin-right: 8px;
+
+}
+.last {
+	margin-top: 30px;
+	padding-top: 20px;
+	border-top: 2px solid #a5a1a1;
+}
+.elementos {
+	width: 15%;
+	margin-top: 10px;
+	margin-right: 20px;
+	text-align: center;
+	}
+.elem {
+	width: 100%;
+	border: 3px ridge #FFF;
+	}
+.nombres {
+	font-size: 13px;
+	color: #308db7;
+	
+}
+.footer {
+	background: #514c4c;
+	margin-top: 30px;
+	color: #FFF;
+	padding: 20px 30px 10px 15px;
+	line-height: 20px;
+}
+.pie {
+	color: #8f8b8b;
+}
