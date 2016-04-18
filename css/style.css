@@ -1,10 +1,9 @@
-a {
-	text-decoration: none;
-	
-}
+a {	text-decoration: none;}
 ul > li {
 	list-style: none;
 	display: inline-block;}
+p {line-height: 25px;}
+/*cabeza*/
 .logo {width: 10%;}
 .header {background: #383434;}
 .color-cabeza {color: #FFF;}
@@ -16,51 +15,19 @@ ul > li {
 .list-epi:last-child {margin-right: 0;}
 .episodies {width: 100%;border: 3px ridge #FFF;}
 .epi { color:#308db7;}
-
-.izquierda {
-	display: block;
-	margin-bottom: 10px;
-}
-.subtitulo {
-	border-bottom: 4px solid #a5a1a1;
-	padding-bottom: 2px;
-	margin-bottom:30px;
-	margin-top: 50px;
-
-}
+/*costado izquierdo*/
+.izquierda {display: block;margin-bottom: 10px;}
+.subtitulo {border-bottom: 4px solid #a5a1a1;padding-bottom: 2px;margin-bottom:30px;margin-top: 50px;}
 .color-izq { color: #308db7;}
-.iconos {
-	width: 7%;
-	margin-right: 8px;
-
-}
-.last {
-	margin-top: 30px;
-	padding-top: 20px;
-	border-top: 2px solid #a5a1a1;
-}
-.elementos {
-	width: 15%;
-	margin-top: 10px;
-	margin-right: 20px;
-	text-align: center;
-	}
-.elem {
-	width: 100%;
-	border: 3px ridge #FFF;
-	}
-.nombres {
-	font-size: 13px;
-	color: #308db7;
-	
-}
-.footer {
-	background: #514c4c;
-	margin-top: 30px;
-	color: #FFF;
-	padding: 20px 30px 10px 15px;
-	line-height: 20px;
-}
-.pie {
-	color: #8f8b8b;
-}
+.iconos {width: 7%;margin-right: 8px;}
+.last {margin-top: 30px;padding-top: 20px;border-top: 2px solid #a5a1a1;}
+/*lista de archivos*/
+.elementos {width: 15%;margin-top: 10px;margin-right: 20px;text-align: center;}
+.elem {width: 100%;border: 3px ridge #FFF;}
+.nombres {font-size: 13px;color: #308db7;}
+/*pie*/
+.footer {background: #4a4a4a;margin-top: 30px;color: #FFF;padding: 20px 30px 10px 15px;}
+.pie {color: #d1cece;text-decoration-style: none;}
+.foot {text-align: center;font-size: 14px;margin-left: 10px;}
+.foot:first-child {margin-left: 195px;}
+.parrafo {font-size: 9px;text-align: center;color: #a5a4a4;}
